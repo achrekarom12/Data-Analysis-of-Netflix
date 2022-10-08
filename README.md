@@ -70,3 +70,6 @@ There are two types of Candidate Generation Systems which are:
 <li> Tableau Dashboard for the Netflix Dataset </li>
 It is an informative realtime dashboard for seeing all of the information regarding Netflix at glance.
 <br>
+
+Tableau Dashboard:
+<img width="1470" alt="Screenshot 2022-10-08 at 9 11 54 AM" src="https://user-images.githubusercontent.com/88442486/194690365-38e31063-0a3f-4e05-810c-19fa8c647d7b.png">
