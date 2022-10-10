@@ -66,6 +66,18 @@ There are two types of Candidate Generation Systems which are:
 <li> Collaborative filtering </li>
 </ol>
 <br>
+<br>
+<h3>Concept of Cosine Similarity:</h3>
+Cosine Similarity simply measures the similarity between two input vectors. The cosine similarity is described mathematically as the division between the dot product of vectors and the product of the euclidean norms or magnitude of each vector. 
+<p align='center'><img width="459" alt="image" src="https://user-images.githubusercontent.com/88442486/194811882-9da84d06-68a7-47a6-beeb-5b7eb25814fe.png">
+</p>
+The similarity measurement is a measure of the cosine of the angle between the two non-zero vectors A and B.
+Suppose the angle between the two vectors was 90 degrees. In that case, the cosine similarity will have a value of 0; this means that the two vectors are orthogonal or perpendicular to each other.
+As the cosine similarity measurement gets closer to 1, then the angle between the two vectors A and B is smaller. The images below depict this more clearly.<br>
+<p align='center'><img width="678" alt="image" src="https://user-images.githubusercontent.com/88442486/194812267-91a8588e-7da3-4079-ac63-4b57eb8a8efc.png">
+<br>
+</p>
+
 
 <li> Tableau Dashboard for the Netflix Dataset </li>
 It is an informative realtime dashboard for seeing all of the information regarding Netflix at glance.
